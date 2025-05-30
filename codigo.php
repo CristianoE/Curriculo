@@ -42,7 +42,6 @@ function calcularIdade($dataNasc) {
     <p><strong>Data de Nascimento:</strong> <?php echo htmlspecialchars($nascimento); ?></p>
     <p><strong>Idade:</strong> <?php echo calcularIdade($nascimento); ?> anos</p>
 
-
     <hr class="my-4">
 
     <h2 class="text-xl font-semibold text-gray-700">Formação Acadêmica</h2>
